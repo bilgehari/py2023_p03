@@ -1,0 +1,103 @@
+<?xml version ="1.0"?>
+<eserler>
+    <eser>
+        <dcTitle>Veronika Olmek Istiyor</dcTitle>
+        <dcSubject>İntihar</dcSubject>
+        <dcCreator>Paulo Coelho</dcCreator>
+        <dcContributor>Haldun Pamir</dcContributor>
+        <dcDescription>Genç ve güzel bir kız olan Veronika, hayatın rutinliğinden sıkılır ve intihara teşebbüs eder. Bu teşebbüsü başarısızlıkla sonuçlanınca da bir akıl hastanesine kaldırılır.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/veronika-olmek-istiyor-p-202087?vendorId=3</dcIdentifier>
+        <dcImage>image/veronika_olmek_istiyor.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Sofie'nin Dunyasi</dcTitle>
+        <dcSubject>Felsefe</dcSubject>
+        <dcCreator>Jostein Gaarder</dcCreator>
+        <dcContributor>Sabir Yücesoy</dcContributor>
+        <dcDescription>Kitap, 14 yaşında ve ailesiyle Norveç'te yaşayan genç bir kız olan ana karakter Sophie'yi anlatır. Aynı zamanda Sophie'nin hayatı, etrafındaki dünya bir dizi garip kartpostal aldığında dramatik bir şekilde değişir.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/sofienin-dunyasi-p-197104?vendorId=3</dcIdentifier>
+        <dcImage>image/sofie'nin_dunyasi.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Simyaci</dcTitle>
+        <dcSubject>Macera</dcSubject>
+        <dcCreator>Paulo Coelho</dcCreator>
+        <dcContributor>Ozdemir Ince</dcContributor>
+        <dcDescription>Simyacı, Santiago adındaki Endülüslü bir çobanın İspanya'dan başlayıp Mısır'da sona eren yolculuğunu konu ediniyor. </dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/simyaci-p-201011?vendorId=3</dcIdentifier>
+        <dcImage>image/simyaci.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Emma</dcTitle>
+        <dcSubject>Romantizm</dcSubject>
+        <dcCreator>Jane Austen</dcCreator>
+        <dcContributor>Nihal Yeginobali</dcContributor>
+        <dcDescription>Bir taşra kasabasındaki üç genç kızın gerçek aşkı arayışını anlatan roman, bir yandan insan yaradılışının zayıf yönlerini, bir yandan da XIX. yüzyıl İngiliz toplumunun katı ve ikiyüzlü geleneklerini sorgular, inceden inceye alaya alır.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/emma-p-254593?vendorId=3</dcIdentifier>
+        <dcImage>image/emma.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Okcu'nun Yolu</dcTitle>
+        <dcSubject>Felsefe</dcSubject>
+        <dcCreator>Paulo Coelho</dcCreator>
+        <dcContributor>Emrah Imre</dcContributor>
+        <dcDescription>Ülkenin en mahir okçusu Tetsuya bir köyde mütevazı bir marangoz olarak yaşamını sürdürmekteyken bir gün uzak diyarlardan gelen bir okçu ona meydan okur... Tetsuya bu meydan okumayı kabul ederek okçuluk felsefesini hem yabancı okçuya hem de köyün delikanlılarından birine aktaracaktır.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/okcunun-yolu-p-311791?vendorId=3</dcIdentifier>
+        <dcImage>image/okcu'nun_yolu.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Hac</dcTitle>
+        <dcSubject>Macera</dcSubject>
+        <dcCreator>Paulo Coelho</dcCreator>
+        <dcContributor>Celal Uster</dcContributor>
+        <dcDescription>Hacıların Santiago Katedrali'ne varmak için bin yıldır yürüdükleri bu yolda yaşadığı heyecan dolu serüvenlerin öyküsü.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/hac-p-207296?vendorId=3</dcIdentifier>
+        <dcImage>image/hac.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Dorian Gray'in Portresi</dcTitle>
+        <dcSubject>Cinayet</dcSubject>
+        <dcCreator>Oscar Wilde</dcCreator>
+        <dcContributor>Nihal Yeginobali</dcContributor>
+        <dcDescription>Güzelliğiyle herkesi etkileyen ama yozlaşmış bir adamın, kötülük, aldatmaca ve skandallarla örülü hikâyesini gözler önüne seriyor.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/dorian-grayin-portresi-p-254570?vendorId=3</dcIdentifier>
+        <dcImage>image/dorian_gray'in_portresi.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Brida</dcTitle>
+        <dcSubject>Büyücülük</dcSubject>
+        <dcCreator>Paulo Coelho</dcCreator>
+        <dcContributor>Seckin Selvi</dcContributor>
+        <dcDescription> Güzel bir İrlandalı kızın ve onun bilgiye erişme çabasının öyküsü.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/brida-p-202756?vendorId=3</dcIdentifier>
+        <dcImage>image/brida.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Bilinmeyen Bir Kadının Mektubu</dcTitle>
+        <dcSubject>Aşk</dcSubject>
+        <dcCreator>Stefan Zweig</dcCreator>
+        <dcContributor>Ali Osman Dogan</dcContributor>
+        <dcDescription>İsmi bilinmeyen bir kadının ölmeden önce, ömrü boyunca âşık olduğu adama yazdığı mektubu konu alır</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/bilinmeyen-bir-kadinin-mektubu-p-327106?vendorId=3</dcIdentifier>
+        <dcImage>image/bilinmeyen_bir_kadinin_mektubu.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Aldatmak</dcTitle>
+        <dcSubject>Felsefe</dcSubject>
+        <dcCreator>Paulo Coelho</dcCreator>
+        <dcContributor>Emrah Imre</dcContributor>
+        <dcDescription>İnsanların kendi iç dünyalarını nasıl keşfetmeye çalıştıklarını, özellikle bir kadının kendiyle çelişen ama vazgeçemediği özelliklerini nasıl anlamaya çalıştığını anlatıyor.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/aldatmak-p-216418?vendorId=3</dcIdentifier>
+        <dcImage>image/aldatmak.jpg</dcImage>
+    </eser>
+</eserler>
