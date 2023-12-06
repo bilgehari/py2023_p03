@@ -81,14 +81,14 @@
         <dcImage>image/brida.jpg</dcImage>
     </eser>
     <eser>
-        <dcTitle>Bilinmeyen Bir Kadının Mektubu</dcTitle>
+        <dcTitle>Madam Bovary</dcTitle>
         <dcSubject>Aşk</dcSubject>
-        <dcCreator>Stefan Zweig</dcCreator>
-        <dcContributor>Ali Osman Dogan</dcContributor>
-        <dcDescription>İsmi bilinmeyen bir kadının ölmeden önce, ömrü boyunca âşık olduğu adama yazdığı mektubu konu alır</dcDescription>
+        <dcCreator>Gustave Flaubert</dcCreator>
+        <dcContributor>Tahsin Yucel</dcContributor>
+        <dcDescription>Eser, iyi kalpli ve sıradan bir hayat süren doktor Charles Bovary'nin yüksek idealleri ve aşırı lüks tutkusu olan karısı Emma Bovary'nin, yaşamın tekdüzeliğinden sıyrılmak için girdiği durumları ve yaşadığı ilişkileri konu alır.</dcDescription>
         <dcLanguage>TR</dcLanguage>
-        <dcIdentifier>https://www.idefix.com/bilinmeyen-bir-kadinin-mektubu-p-327106?vendorId=3</dcIdentifier>
-        <dcImage>image/bilinmeyen_bir_kadinin_mektubu.jpg</dcImage>
+        <dcIdentifier>https://www.idefix.com/madam-bovary-beyaz-kapak-p-254603?vendorId=3</dcIdentifier>
+        <dcImage>image/madam_bovary.jpg</dcImage>
     </eser>
     <eser>
         <dcTitle>Aldatmak</dcTitle>
